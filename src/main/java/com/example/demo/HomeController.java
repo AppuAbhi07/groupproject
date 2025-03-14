@@ -9,7 +9,7 @@ public class HomeController {
 
 	public String getHome() {
 		
-		return "welcome to devops edit";
+		return "welcome to devops";
 	}
 	
 }
