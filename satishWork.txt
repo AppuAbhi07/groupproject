@@ -1,1 +1,3 @@
 Bugs Fixing
+
+FIxed bugs
